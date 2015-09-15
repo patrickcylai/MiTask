@@ -1,0 +1,17 @@
+﻿<UserControl
+	xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+	xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+	xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+	xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" x:Name="About_Name"
+	mc:Ignorable="d"
+	x:Class="WpfPrototype1Screens.About"
+	Width="460" Height="208">
+
+	<Grid x:Name="LayoutRoot" Background="White">
+		<Rectangle Fill="#FFF4F4F5" HorizontalAlignment="Left" Margin="41,46,0,45" Stroke="Black" Width="117"/>
+		<TextBlock HorizontalAlignment="Left" Margin="74,91,0,85" Style="{DynamicResource BasicTextBlock-Sketch}" Width="74" FontSize="24"><Run Language="en-au" Text="Logo"/></TextBlock>
+		<TextBlock Height="21" Margin="200,46,217,0" Style="{DynamicResource BasicTextBlock-Sketch}" VerticalAlignment="Top" RenderTransformOrigin="1.558,1.476"><Run Language="en-au" Text="Author"/></TextBlock>
+		<TextBlock Height="21" Margin="200,71,190,0" Style="{DynamicResource BasicTextBlock-Sketch}" VerticalAlignment="Top" RenderTransformOrigin="1.558,1.476"><Run Language="en-au" Text="Description"/></TextBlock>
+		<TextBlock Margin="200,96,190,91" Style="{DynamicResource BasicTextBlock-Sketch}" RenderTransformOrigin="1.558,1.476"><Run Language="en-au" Text="User Info"/></TextBlock>
+	</Grid>
+</UserControl>

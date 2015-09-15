@@ -1,0 +1,40 @@
+C:\Users\Patrick L\Documents\Expression\Blend 4\Projects\WpfPrototype1\WpfPrototype1\bin\Debug\WpfPrototype1.Screens.dll
+C:\Users\Patrick L\Documents\Expression\Blend 4\Projects\WpfPrototype1\WpfPrototype1\bin\Debug\WpfPrototype1.Screens.pdb
+C:\Users\Patrick L\Documents\Expression\Blend 4\Projects\WpfPrototype1\WpfPrototype1\WpfPrototype1Screens\obj\Debug\WpfPrototype1Screens.csprojResolveAssemblyReference.cache
+C:\Users\Patrick L\Documents\Expression\Blend 4\Projects\WpfPrototype1\WpfPrototype1\WpfPrototype1Screens\obj\Debug\Screen_1.baml
+C:\Users\Patrick L\Documents\Expression\Blend 4\Projects\WpfPrototype1\WpfPrototype1\WpfPrototype1Screens\obj\Debug\SketchStyles.baml
+C:\Users\Patrick L\Documents\Expression\Blend 4\Projects\WpfPrototype1\WpfPrototype1\WpfPrototype1Screens\obj\Debug\Screen_1.g.cs
+C:\Users\Patrick L\Documents\Expression\Blend 4\Projects\WpfPrototype1\WpfPrototype1\WpfPrototype1Screens\obj\Debug\WpfPrototype1.Screens_MarkupCompile.cache
+C:\Users\Patrick L\Documents\Expression\Blend 4\Projects\WpfPrototype1\WpfPrototype1\WpfPrototype1Screens\obj\Debug\WpfPrototype1.Screens.g.resources
+C:\Users\Patrick L\Documents\Expression\Blend 4\Projects\WpfPrototype1\WpfPrototype1\WpfPrototype1Screens\obj\Debug\WpfPrototype1.Screens.dll
+C:\Users\Patrick L\Documents\Expression\Blend 4\Projects\WpfPrototype1\WpfPrototype1\WpfPrototype1Screens\obj\Debug\WpfPrototype1.Screens.pdb
+C:\Users\Patrick L\Documents\Expression\Blend 4\Projects\WpfPrototype1\WpfPrototype1\WpfPrototype1Screens\obj\Debug\About.baml
+C:\Users\Patrick L\Documents\Expression\Blend 4\Projects\WpfPrototype1\WpfPrototype1\WpfPrototype1Screens\obj\Debug\Edit_Task.baml
+C:\Users\Patrick L\Documents\Expression\Blend 4\Projects\WpfPrototype1\WpfPrototype1\WpfPrototype1Screens\obj\Debug\Screen_2.baml
+C:\Users\Patrick L\Documents\Expression\Blend 4\Projects\WpfPrototype1\WpfPrototype1\WpfPrototype1Screens\obj\Debug\About.g.cs
+C:\Users\Patrick L\Documents\Expression\Blend 4\Projects\WpfPrototype1\WpfPrototype1\WpfPrototype1Screens\obj\Debug\Edit_Task.g.cs
+C:\Users\Patrick L\Documents\Expression\Blend 4\Projects\WpfPrototype1\WpfPrototype1\WpfPrototype1Screens\obj\Debug\Screen_2.g.cs
+C:\Users\Patrick L\Documents\Expression\Blend 4\Projects\WpfPrototype1\WpfPrototype1\WpfPrototype1Screens\obj\Debug\WpfPrototype1.Screens_MarkupCompile.lref
+C:\Users\Patrick L\Dropbox\Student Diary\Documentation\Screen Designs\Screen Designs\WpfPrototype1\bin\Debug\WpfPrototype1.Screens.dll
+C:\Users\Patrick L\Dropbox\Student Diary\Documentation\Screen Designs\Screen Designs\WpfPrototype1\bin\Debug\WpfPrototype1.Screens.pdb
+C:\Users\Patrick L\Dropbox\Student Diary\Documentation\Screen Designs\Screen Designs\WpfPrototype1\WpfPrototype1Screens\obj\Debug\WpfPrototype1Screens.csprojResolveAssemblyReference.cache
+C:\Users\Patrick L\Dropbox\Student Diary\Documentation\Screen Designs\Screen Designs\WpfPrototype1\WpfPrototype1Screens\obj\Debug\About.baml
+C:\Users\Patrick L\Dropbox\Student Diary\Documentation\Screen Designs\Screen Designs\WpfPrototype1\WpfPrototype1Screens\obj\Debug\Edit_Task.baml
+C:\Users\Patrick L\Dropbox\Student Diary\Documentation\Screen Designs\Screen Designs\WpfPrototype1\WpfPrototype1Screens\obj\Debug\Screen_1_1.baml
+C:\Users\Patrick L\Dropbox\Student Diary\Documentation\Screen Designs\Screen Designs\WpfPrototype1\WpfPrototype1Screens\obj\Debug\Screen_2.baml
+C:\Users\Patrick L\Dropbox\Student Diary\Documentation\Screen Designs\Screen Designs\WpfPrototype1\WpfPrototype1Screens\obj\Debug\SketchStyles.baml
+C:\Users\Patrick L\Dropbox\Student Diary\Documentation\Screen Designs\Screen Designs\WpfPrototype1\WpfPrototype1Screens\obj\Debug\About.g.cs
+C:\Users\Patrick L\Dropbox\Student Diary\Documentation\Screen Designs\Screen Designs\WpfPrototype1\WpfPrototype1Screens\obj\Debug\Edit_Task.g.cs
+C:\Users\Patrick L\Dropbox\Student Diary\Documentation\Screen Designs\Screen Designs\WpfPrototype1\WpfPrototype1Screens\obj\Debug\Screen_1.g.cs
+C:\Users\Patrick L\Dropbox\Student Diary\Documentation\Screen Designs\Screen Designs\WpfPrototype1\WpfPrototype1Screens\obj\Debug\Screen_1_1.g.cs
+C:\Users\Patrick L\Dropbox\Student Diary\Documentation\Screen Designs\Screen Designs\WpfPrototype1\WpfPrototype1Screens\obj\Debug\Screen_2.g.cs
+C:\Users\Patrick L\Dropbox\Student Diary\Documentation\Screen Designs\Screen Designs\WpfPrototype1\WpfPrototype1Screens\obj\Debug\WpfPrototype1.Screens_MarkupCompile.cache
+C:\Users\Patrick L\Dropbox\Student Diary\Documentation\Screen Designs\Screen Designs\WpfPrototype1\WpfPrototype1Screens\obj\Debug\WpfPrototype1.Screens_MarkupCompile.lref
+C:\Users\Patrick L\Dropbox\Student Diary\Documentation\Screen Designs\Screen Designs\WpfPrototype1\WpfPrototype1Screens\obj\Debug\Screen_1.baml
+C:\Users\Patrick L\Dropbox\Student Diary\Documentation\Screen Designs\Screen Designs\WpfPrototype1\WpfPrototype1Screens\obj\Debug\WpfPrototype1.Screens.g.resources
+C:\Users\Patrick L\Dropbox\Student Diary\Documentation\Screen Designs\Screen Designs\WpfPrototype1\WpfPrototype1Screens\obj\Debug\WpfPrototype1.Screens.dll
+C:\Users\Patrick L\Dropbox\Student Diary\Documentation\Screen Designs\Screen Designs\WpfPrototype1\WpfPrototype1Screens\obj\Debug\WpfPrototype1.Screens.pdb
+C:\Users\Patrick L\Dropbox\Student Diary\Documentation\Screen Designs\Screen Designs\WpfPrototype1\WpfPrototype1Screens\obj\Debug\Add_Task_Wizard.baml
+C:\Users\Patrick L\Dropbox\Student Diary\Documentation\Screen Designs\Screen Designs\WpfPrototype1\WpfPrototype1Screens\obj\Debug\Add_Task_Wizard_2.baml
+C:\Users\Patrick L\Dropbox\Student Diary\Documentation\Screen Designs\Screen Designs\WpfPrototype1\WpfPrototype1Screens\obj\Debug\Add_Task_Wizard.g.cs
+C:\Users\Patrick L\Dropbox\Student Diary\Documentation\Screen Designs\Screen Designs\WpfPrototype1\WpfPrototype1Screens\obj\Debug\Add_Task_Wizard_2.g.cs

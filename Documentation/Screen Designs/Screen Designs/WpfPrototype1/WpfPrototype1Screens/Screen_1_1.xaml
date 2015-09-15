@@ -1,0 +1,16 @@
+﻿<UserControl
+	xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+	xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+	xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+	xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" x:Name="Screen_1_1_Name"
+	mc:Ignorable="d"
+	x:Class="WpfPrototype1Screens.Screen_1_1"
+	Width="224" Height="141">
+
+	<Grid x:Name="LayoutRoot" Background="White">
+		<TextBlock HorizontalAlignment="Left" Height="20" Margin="8,26,0,0" Style="{DynamicResource BasicTextBlock-Sketch}" VerticalAlignment="Top" Width="57"><Run Language="en-au" Text="Subject"/></TextBlock>
+		<TextBox Margin="8,47,8,0" Style="{DynamicResource BasicTextBox-Sketch}" TextWrapping="Wrap" Text="Entered Subject" Height="23" VerticalAlignment="Top"/>
+		<Button Content="Add" Height="28" Margin="54,0,91,8" Style="{DynamicResource Button-Sketch}" VerticalAlignment="Bottom"/>
+		<Button Content="Cancel" Height="28" Margin="0,0,8,8" Style="{DynamicResource Button-Sketch}" VerticalAlignment="Bottom" HorizontalAlignment="Right" Width="79"/>
+	</Grid>
+</UserControl>

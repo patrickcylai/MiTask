@@ -1,0 +1,19 @@
+﻿<UserControl
+	xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+	xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+	xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+	xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" x:Name="Add_Task_Wizard_Name"
+	mc:Ignorable="d"
+	x:Class="WpfPrototype1Screens.Add_Task_Wizard"
+	Width="493" Height="355">
+
+	<Grid x:Name="LayoutRoot" Background="White">
+		<ListBox HorizontalAlignment="Left" Margin="27,38,0,78" Style="{DynamicResource ListBox-Sketch}" Width="218">
+			<TextBlock Height="29" Style="{DynamicResource BasicTextBlock-Sketch}" Width="107"><Run Language="en-au" Text="Subjects Items"/></TextBlock>
+		</ListBox>
+		<Button Content="Next" Height="34" Margin="235,0,137,19" Style="{DynamicResource Button-Sketch}" VerticalAlignment="Bottom"/>
+		<Button Content="Cancel" Height="34" Margin="0,0,8,19" Style="{DynamicResource Button-Sketch}" VerticalAlignment="Bottom" HorizontalAlignment="Right" Width="121"/>
+		<TextBlock HorizontalAlignment="Left" Height="26" Margin="27,8,0,0" Style="{DynamicResource BasicTextBlock-Sketch}" VerticalAlignment="Top" Width="121"><Run Language="en-au" Text="Subjects Available"/></TextBlock>
+		<TextBlock HorizontalAlignment="Right" Margin="0,43,34,119" Style="{DynamicResource BasicTextBlock-Sketch}" Width="191"><Run Language="en-au" Text="Instructions"/></TextBlock>
+	</Grid>
+</UserControl>

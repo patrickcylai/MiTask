@@ -1,0 +1,130 @@
+C:\Users\Patrick L\AppData\Local\Temporary Projects\Student Diary\bin\Debug\Student Diary.exe
+C:\Users\Patrick L\AppData\Local\Temporary Projects\Student Diary\bin\Debug\Student Diary.pdb
+C:\Users\Patrick L\AppData\Local\Temporary Projects\Student Diary\bin\Debug\Student Diary.xml
+C:\Users\Patrick L\AppData\Local\Temporary Projects\Student Diary\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Patrick L\AppData\Local\Temporary Projects\Student Diary\obj\x86\Debug\Student_Diary.frmMain.resources
+C:\Users\Patrick L\AppData\Local\Temporary Projects\Student Diary\obj\x86\Debug\Student_Diary.Resources.resources
+C:\Users\Patrick L\AppData\Local\Temporary Projects\Student Diary\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Patrick L\AppData\Local\Temporary Projects\Student Diary\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Patrick L\AppData\Local\Temporary Projects\Student Diary\obj\x86\Debug\Student Diary.exe
+C:\Users\Patrick L\AppData\Local\Temporary Projects\Student Diary\obj\x86\Debug\Student Diary.xml
+C:\Users\Patrick L\AppData\Local\Temporary Projects\Student Diary\obj\x86\Debug\Student Diary.pdb
+C:\Users\Patrick L\AppData\Local\Temporary Projects\Student Diary\obj\x86\Debug\Student_Diary.optPreferences.resources
+\\NC-Macbook\Users\pcyl\Dropbox\Student Diary\Student Diary\obj\x86\Debug\ResolveAssemblyReference.cache
+\\NC-Macbook\Users\pcyl\Dropbox\Student Diary\Student Diary\obj\x86\Debug\GenerateResource.read.1.tlog
+\\NC-Macbook\Users\pcyl\Dropbox\Student Diary\Student Diary\obj\x86\Debug\GenerateResource.write.1.tlog
+\\172.18.213.138\Users\pcyl\Dropbox\Student Diary\Student Diary\obj\x86\Debug\Student Diary.exe
+\\172.18.213.138\Users\pcyl\Dropbox\Student Diary\Student Diary\obj\x86\Debug\Student Diary.xml
+\\172.18.213.138\Users\pcyl\Dropbox\Student Diary\Student Diary\obj\x86\Debug\Student Diary.pdb
+\\172.18.213.138\Users\pcyl\Dropbox\Student Diary\Student Diary\bin\Debug\Student Diary.exe
+\\172.18.213.138\Users\pcyl\Dropbox\Student Diary\Student Diary\bin\Debug\Student Diary.pdb
+\\172.18.213.138\Users\pcyl\Dropbox\Student Diary\Student Diary\bin\Debug\Student Diary.xml
+\\172.18.213.138\Users\pcyl\Dropbox\Student Diary\Student Diary\obj\x86\Debug\ResolveAssemblyReference.cache
+\\172.18.213.138\Users\pcyl\Dropbox\Student Diary\Student Diary\obj\x86\Debug\Student_Diary.frmMain.resources
+\\172.18.213.138\Users\pcyl\Dropbox\Student Diary\Student Diary\obj\x86\Debug\Student_Diary.Resources.resources
+\\172.18.213.138\Users\pcyl\Dropbox\Student Diary\Student Diary\obj\x86\Debug\Student_Diary.optAddSubject.resources
+\\172.18.213.138\Users\pcyl\Dropbox\Student Diary\Student Diary\obj\x86\Debug\Student_Diary.optPreferences.resources
+\\172.18.213.138\Users\pcyl\Dropbox\Student Diary\Student Diary\obj\x86\Debug\GenerateResource.read.1.tlog
+\\172.18.213.138\Users\pcyl\Dropbox\Student Diary\Student Diary\obj\x86\Debug\GenerateResource.write.1.tlog
+\\NC-Macbook\Users\pcyl\Dropbox\Student Diary\Student Diary\obj\x86\Debug\myTasks.exe
+\\NC-Macbook\Users\pcyl\Dropbox\Student Diary\Student Diary\obj\x86\Debug\myTasks.xml
+\\NC-Macbook\Users\pcyl\Dropbox\Student Diary\Student Diary\obj\x86\Debug\myTasks.pdb
+\\NC-Macbook\Users\pcyl\Dropbox\Student Diary\Student Diary\bin\Debug\myTasks.exe
+\\NC-Macbook\Users\pcyl\Dropbox\Student Diary\Student Diary\bin\Debug\myTasks.pdb
+\\NC-Macbook\Users\pcyl\Dropbox\Student Diary\Student Diary\bin\Debug\myTasks.xml
+\\NC-Macbook\Users\pcyl\Dropbox\Student Diary\Student Diary\obj\x86\Debug\my_Tasks.frmMain.resources
+\\NC-Macbook\Users\pcyl\Dropbox\Student Diary\Student Diary\obj\x86\Debug\my_Tasks.Resources.resources
+\\NC-Macbook\Users\pcyl\Dropbox\Student Diary\Student Diary\obj\x86\Debug\my_Tasks.optAddSubject.resources
+\\NC-Macbook\Users\pcyl\Dropbox\Student Diary\Student Diary\obj\x86\Debug\my_Tasks.optEditTask.resources
+\\NC-Macbook\Users\pcyl\Dropbox\Student Diary\Student Diary\obj\x86\Debug\my_Tasks.optPreferences.resources
+\\NC-Macbook\Users\pcyl\Dropbox\Student Diary\Student Diary\obj\x86\Debug\my_Tasks.optAddTask.resources
+C:\Users\pcyl\Dropbox\Student Diary\Student Diary\obj\x86\Debug\myTasks.exe
+C:\Users\pcyl\Dropbox\Student Diary\Student Diary\obj\x86\Debug\myTasks.xml
+C:\Users\pcyl\Dropbox\Student Diary\Student Diary\obj\x86\Debug\myTasks.pdb
+C:\Users\pcyl\Dropbox\Student Diary\Student Diary\bin\Debug\myTasks.exe
+C:\Users\pcyl\Dropbox\Student Diary\Student Diary\bin\Debug\myTasks.pdb
+C:\Users\pcyl\Dropbox\Student Diary\Student Diary\bin\Debug\myTasks.xml
+C:\Users\pcyl\Dropbox\Student Diary\Student Diary\obj\x86\Debug\my_Tasks.frmMain.resources
+C:\Users\pcyl\Dropbox\Student Diary\Student Diary\obj\x86\Debug\my_Tasks.Resources.resources
+C:\Users\pcyl\Dropbox\Student Diary\Student Diary\obj\x86\Debug\my_Tasks.optAddSubject.resources
+C:\Users\pcyl\Dropbox\Student Diary\Student Diary\obj\x86\Debug\my_Tasks.optAddTask.resources
+C:\Users\pcyl\Dropbox\Student Diary\Student Diary\obj\x86\Debug\my_Tasks.optEditTask.resources
+C:\Users\pcyl\Dropbox\Student Diary\Student Diary\obj\x86\Debug\my_Tasks.optPreferences.resources
+C:\Users\pcyl\Dropbox\Student Diary\Student Diary\bin\Debug\myTasks.exe.config
+\\NC-Macbook\Users\pcyl\Dropbox\Student Diary\Student Diary\bin\Debug\myTasks.exe.config
+C:\Users\pcyl\Dropbox\Student Diary\Student Diary\obj\x86\Debug\Student Diary.vbprojResolveAssemblyReference.cache
+C:\Users\pcyl\Dropbox\Student Diary\Student Diary\obj\x86\Debug\Student Diary.vbproj.GenerateResource.Cache
+C:\Users\Patrick\Dropbox\Student Diary\Student Diary\obj\x86\Debug\Student Diary.vbproj.GenerateResource.Cache
+C:\Users\Patrick\Dropbox\Student Diary\Student Diary\bin\Debug\miTasks.exe
+C:\Users\Patrick\Dropbox\Student Diary\Student Diary\bin\Debug\miTasks.pdb
+C:\Users\Patrick\Dropbox\Student Diary\Student Diary\bin\Debug\miTasks.xml
+C:\Users\Patrick\Dropbox\Student Diary\Student Diary\obj\x86\Debug\miTasks.exe
+C:\Users\Patrick\Dropbox\Student Diary\Student Diary\obj\x86\Debug\miTasks.xml
+C:\Users\Patrick\Dropbox\Student Diary\Student Diary\obj\x86\Debug\miTasks.pdb
+C:\Users\Patrick\Dropbox\Student Diary\Student Diary\obj\x86\Debug\miTasks.frmMain.resources
+C:\Users\Patrick\Dropbox\Student Diary\Student Diary\obj\x86\Debug\miTasks.Resources.resources
+C:\Users\Patrick\Dropbox\Student Diary\Student Diary\obj\x86\Debug\miTasks.optAddSubject.resources
+C:\Users\Patrick\Dropbox\Student Diary\Student Diary\obj\x86\Debug\miTasks.optAddTask.resources
+C:\Users\Patrick\Dropbox\Student Diary\Student Diary\obj\x86\Debug\miTasks.optEditTask.resources
+C:\Users\Patrick\Dropbox\Student Diary\Student Diary\obj\x86\Debug\miTasks.optAddTaskWizard.resources
+C:\Users\Patrick\Dropbox\Student Diary\Student Diary\obj\x86\Debug\miTasks.optAddTaskWizard2.resources
+C:\Users\Patrick\Dropbox\Student Diary\Student Diary\obj\x86\Debug\miTasks.AboutBox.resources
+E:\Work\Student Diary\Student Diary\bin\Debug\miTasks.exe.config
+E:\Work\Student Diary\Student Diary\obj\x86\Debug\miTasks.exe
+E:\Work\Student Diary\Student Diary\obj\x86\Debug\miTasks.xml
+E:\Work\Student Diary\Student Diary\obj\x86\Debug\miTasks.pdb
+E:\Work\Student Diary\Student Diary\bin\Debug\miTasks.exe
+E:\Work\Student Diary\Student Diary\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Work\Student Diary\Student Diary\obj\x86\Debug\miTasks.AboutBox.resources
+E:\Work\Student Diary\Student Diary\obj\x86\Debug\miTasks.optAddTaskWizard2.resources
+E:\Work\Student Diary\Student Diary\obj\x86\Debug\miTasks.frmMain.resources
+E:\Work\Student Diary\Student Diary\obj\x86\Debug\miTasks.Resources.resources
+E:\Work\Student Diary\Student Diary\obj\x86\Debug\miTasks.optAddSubject.resources
+E:\Work\Student Diary\Student Diary\obj\x86\Debug\miTasks.optAddTask.resources
+E:\Work\Student Diary\Student Diary\obj\x86\Debug\miTasks.optAddTaskWizard.resources
+E:\Work\Student Diary\Student Diary\obj\x86\Debug\miTasks.optEditTask.resources
+E:\Work\Student Diary\Student Diary\obj\x86\Debug\miTasks.optPreferences.resources
+E:\Work\Student Diary\Student Diary\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Work\Student Diary\Student Diary\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Work\Student Diary\Student Diary\bin\Debug\miTasks.pdb
+E:\Work\Student Diary\Student Diary\bin\Debug\miTasks.xml
+C:\Users\pcyl.S12-SMBP13-W123\Dropbox\Student Diary\Student Diary\obj\x86\Debug\MiTasks.exe
+C:\Users\pcyl.S12-SMBP13-W123\Dropbox\Student Diary\Student Diary\obj\x86\Debug\MiTasks.xml
+C:\Users\pcyl.S12-SMBP13-W123\Dropbox\Student Diary\Student Diary\obj\x86\Debug\MiTasks.pdb
+C:\Users\pcyl.S12-SMBP13-W123\Dropbox\Student Diary\Student Diary\bin\Debug\MiTasks.exe
+C:\Users\pcyl.S12-SMBP13-W123\Dropbox\Student Diary\Student Diary\bin\Debug\MiTasks.pdb
+C:\Users\pcyl.S12-SMBP13-W123\Dropbox\Student Diary\Student Diary\bin\Debug\MiTasks.xml
+C:\Users\pcyl.S12-SMBP13-W123\Dropbox\Student Diary\Student Diary\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\pcyl.S12-SMBP13-W123\Dropbox\Student Diary\Student Diary\obj\x86\Debug\MiTasks.AboutBox.resources
+C:\Users\pcyl.S12-SMBP13-W123\Dropbox\Student Diary\Student Diary\obj\x86\Debug\MiTasks.optAddTaskWizard2.resources
+C:\Users\pcyl.S12-SMBP13-W123\Dropbox\Student Diary\Student Diary\obj\x86\Debug\MiTasks.frmMain.resources
+C:\Users\pcyl.S12-SMBP13-W123\Dropbox\Student Diary\Student Diary\obj\x86\Debug\MiTasks.Resources.resources
+C:\Users\pcyl.S12-SMBP13-W123\Dropbox\Student Diary\Student Diary\obj\x86\Debug\MiTasks.optAddSubject.resources
+C:\Users\pcyl.S12-SMBP13-W123\Dropbox\Student Diary\Student Diary\obj\x86\Debug\MiTasks.optAddTask.resources
+C:\Users\pcyl.S12-SMBP13-W123\Dropbox\Student Diary\Student Diary\obj\x86\Debug\MiTasks.optAddTaskWizard.resources
+C:\Users\pcyl.S12-SMBP13-W123\Dropbox\Student Diary\Student Diary\obj\x86\Debug\MiTasks.optEditTask.resources
+C:\Users\pcyl.S12-SMBP13-W123\Dropbox\Student Diary\Student Diary\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\pcyl.S12-SMBP13-W123\Dropbox\Student Diary\Student Diary\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Patrick L\Dropbox\Student Diary\Student Diary\bin\Debug\MiTasks.exe
+C:\Users\Patrick L\Dropbox\Student Diary\Student Diary\bin\Debug\MiTasks.pdb
+C:\Users\Patrick L\Dropbox\Student Diary\Student Diary\bin\Debug\MiTasks.xml
+C:\Users\Patrick L\Dropbox\Student Diary\Student Diary\obj\x86\Debug\MiTasks.AboutBox.resources
+C:\Users\Patrick L\Dropbox\Student Diary\Student Diary\obj\x86\Debug\MiTasks.optAddTaskWizard2.resources
+C:\Users\Patrick L\Dropbox\Student Diary\Student Diary\obj\x86\Debug\MiTasks.frmMain.resources
+C:\Users\Patrick L\Dropbox\Student Diary\Student Diary\obj\x86\Debug\MiTasks.Resources.resources
+C:\Users\Patrick L\Dropbox\Student Diary\Student Diary\obj\x86\Debug\MiTasks.optAddSubject.resources
+C:\Users\Patrick L\Dropbox\Student Diary\Student Diary\obj\x86\Debug\MiTasks.optAddTask.resources
+C:\Users\Patrick L\Dropbox\Student Diary\Student Diary\obj\x86\Debug\MiTasks.optAddTaskWizard.resources
+C:\Users\Patrick L\Dropbox\Student Diary\Student Diary\obj\x86\Debug\MiTasks.optEditTask.resources
+C:\Users\Patrick L\Dropbox\Student Diary\Student Diary\obj\x86\Debug\Student Diary.vbproj.GenerateResource.Cache
+C:\Users\Patrick L\Dropbox\Student Diary\Student Diary\obj\x86\Debug\MiTasks.exe
+C:\Users\Patrick L\Dropbox\Student Diary\Student Diary\obj\x86\Debug\MiTasks.xml
+C:\Users\Patrick L\Dropbox\Student Diary\Student Diary\obj\x86\Debug\MiTasks.pdb
+C:\Users\Patrick\Dropbox\Student Diary\Student Diary\bin\Debug\MiTasks.exe.config
+C:\Users\Patrick L\Dropbox\Student Diary\Student Diary\bin\Debug\MiTasks.exe.config
+C:\Users\Patrick L\Dropbox\Student Diary\Student Diary\obj\x86\Debug\Student Diary.vbprojResolveAssemblyReference.cache
+C:\Users\Patrick\Dropbox\Student Diary\Student Diary\obj\x86\Debug\Student Diary.vbprojResolveAssemblyReference.cache
+\\MICROSERVER\HomeShare\Software\Student Diary\Student Diary\bin\Debug\MiTasks.exe.config
+\\MICROSERVER\HomeShare\Software\Student Diary\Student Diary\obj\x86\Debug\MiTasks.exe
+\\MICROSERVER\HomeShare\Software\Student Diary\Student Diary\obj\x86\Debug\MiTasks.xml
+\\MICROSERVER\HomeShare\Software\Student Diary\Student Diary\obj\x86\Debug\MiTasks.pdb

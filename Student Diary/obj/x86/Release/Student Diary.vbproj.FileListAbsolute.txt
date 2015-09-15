@@ -1,0 +1,16 @@
+C:\Users\Patrick L\Dropbox\Student Diary\Student Diary\bin\Release\MiTasks.exe
+C:\Users\Patrick L\Dropbox\Student Diary\Student Diary\bin\Release\MiTasks.pdb
+C:\Users\Patrick L\Dropbox\Student Diary\Student Diary\bin\Release\MiTasks.xml
+C:\Users\Patrick L\Dropbox\Student Diary\Student Diary\obj\x86\Release\Student Diary.vbprojResolveAssemblyReference.cache
+C:\Users\Patrick L\Dropbox\Student Diary\Student Diary\obj\x86\Release\MiTasks.AboutBox.resources
+C:\Users\Patrick L\Dropbox\Student Diary\Student Diary\obj\x86\Release\MiTasks.optAddTaskWizard2.resources
+C:\Users\Patrick L\Dropbox\Student Diary\Student Diary\obj\x86\Release\MiTasks.frmMain.resources
+C:\Users\Patrick L\Dropbox\Student Diary\Student Diary\obj\x86\Release\MiTasks.Resources.resources
+C:\Users\Patrick L\Dropbox\Student Diary\Student Diary\obj\x86\Release\MiTasks.optAddSubject.resources
+C:\Users\Patrick L\Dropbox\Student Diary\Student Diary\obj\x86\Release\MiTasks.optAddTask.resources
+C:\Users\Patrick L\Dropbox\Student Diary\Student Diary\obj\x86\Release\MiTasks.optAddTaskWizard.resources
+C:\Users\Patrick L\Dropbox\Student Diary\Student Diary\obj\x86\Release\MiTasks.optEditTask.resources
+C:\Users\Patrick L\Dropbox\Student Diary\Student Diary\obj\x86\Release\Student Diary.vbproj.GenerateResource.Cache
+C:\Users\Patrick L\Dropbox\Student Diary\Student Diary\obj\x86\Release\MiTasks.exe
+C:\Users\Patrick L\Dropbox\Student Diary\Student Diary\obj\x86\Release\MiTasks.xml
+C:\Users\Patrick L\Dropbox\Student Diary\Student Diary\obj\x86\Release\MiTasks.pdb

@@ -1,0 +1,28 @@
+﻿<UserControl
+	xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+	xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+	xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+	xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" x:Name="Add_Task_Wizard_2_Name"
+	mc:Ignorable="d"
+	x:Class="WpfPrototype1Screens.Add_Task_Wizard_2"
+	Width="437" Height="232">
+
+	<Grid x:Name="LayoutRoot" Background="White">
+		<TextBlock HorizontalAlignment="Left" Height="20.667" Margin="16.334,14,0,0" Style="{DynamicResource BasicTextBlock-Sketch}" VerticalAlignment="Top" Width="51.334" FontSize="13.333"><Run Language="en-au" Text="Subject"/></TextBlock>
+		<TextBlock HorizontalAlignment="Left" Margin="16.334,52.001,0,0" Style="{DynamicResource BasicTextBlock-Sketch}" Width="59.334" FontSize="13.333" RenderTransformOrigin="0.351,3.581" Height="14.667" VerticalAlignment="Top"><Run Language="en-au" Text="Description"/></TextBlock>
+		<Button Content="Add" Height="18.666" Margin="0,0,129,21.667" Style="{DynamicResource Button-Sketch}" VerticalAlignment="Bottom" FontSize="16" HorizontalAlignment="Right" Width="65.333"/>
+		<Button Content="Cancel" Height="18.666" Margin="0,0,44.667,21.667" Style="{DynamicResource Button-Sketch}" VerticalAlignment="Bottom" FontSize="16" HorizontalAlignment="Right" Width="65.333"/>
+		<TextBlock HorizontalAlignment="Left" Margin="16.334,99.334,0,0" Style="{DynamicResource BasicTextBlock-Sketch}" Width="59.334" FontSize="13.333" RenderTransformOrigin="0.351,3.581" Height="14.667" VerticalAlignment="Top"><Run Language="en-au" Text="Due"/></TextBlock>
+		<DatePicker HorizontalAlignment="Left" Margin="16.334,114.001,0,95.898" Width="92.307" FontSize="8"/>
+		<GroupBox Header="GroupBox" Margin="0,14,59.001,0" FontSize="8" Height="82.718" VerticalAlignment="Top" HorizontalAlignment="Right" Width="111.333"/>
+		<RadioButton Content="In Progress" Margin="0,43.999,81.755,0" VerticalAlignment="Top" HorizontalAlignment="Right"/>
+		<RadioButton Content="Completed" Margin="0,59.959,81.755,0" VerticalAlignment="Top" HorizontalAlignment="Right"/>
+		<RadioButton Content="Not Started" Margin="0,28.039,79.161,0" VerticalAlignment="Top" HorizontalAlignment="Right"/>
+		<TextBox HorizontalAlignment="Left" Height="15.334" Margin="60,14,0,0" Style="{DynamicResource BasicTextBox-Sketch}" TextWrapping="Wrap" Text="Subject Selected" VerticalAlignment="Top" Width="81.333" FontSize="10.667"/>
+		<TextBox Margin="16.334,70.668,0,0" Style="{DynamicResource BasicTextBox-Sketch}" TextWrapping="Wrap" Text="Task Description" FontSize="10.667" HorizontalAlignment="Left" Height="15.334" VerticalAlignment="Top" Width="190.666"/>
+		<TextBlock Margin="122,114.001,210,95.898" Style="{DynamicResource BasicTextBlock-Sketch}" FontSize="12"><Run Language="en-au" Text="Description of Control"/></TextBlock>
+		<TextBlock Margin="102,52.001,0,0" Style="{DynamicResource BasicTextBlock-Sketch}" FontSize="12" HorizontalAlignment="Left" Height="22.101" VerticalAlignment="Top" Width="105"><Run Language="en-au" Text="Description of Control"/></TextBlock>
+		<TextBlock Margin="0,100.718,44.667,109.181" Style="{DynamicResource BasicTextBlock-Sketch}" FontSize="12" HorizontalAlignment="Right" Width="105"><Run Language="en-au" Text="Description of Control"/></TextBlock>
+		<TextBlock Margin="203,0,129,40.333" Style="{DynamicResource BasicTextBlock-Sketch}" FontSize="12" Height="22.101" VerticalAlignment="Bottom"><Run Language="en-au" Text="Description of Control"/></TextBlock>
+	</Grid>
+</UserControl>

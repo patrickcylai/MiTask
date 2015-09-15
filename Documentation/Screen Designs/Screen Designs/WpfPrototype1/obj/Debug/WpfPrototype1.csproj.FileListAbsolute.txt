@@ -1,0 +1,106 @@
+C:\Users\Patrick L\Documents\Expression\Blend 4\Projects\WpfPrototype1\WpfPrototype1\bin\Debug\WpfPrototype1.exe
+C:\Users\Patrick L\Documents\Expression\Blend 4\Projects\WpfPrototype1\WpfPrototype1\bin\Debug\WpfPrototype1.pdb
+C:\Users\Patrick L\Documents\Expression\Blend 4\Projects\WpfPrototype1\WpfPrototype1\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\Patrick L\Documents\Expression\Blend 4\Projects\WpfPrototype1\WpfPrototype1\bin\Debug\Microsoft.Expression.Prototyping.Interactivity.dll
+C:\Users\Patrick L\Documents\Expression\Blend 4\Projects\WpfPrototype1\WpfPrototype1\bin\Debug\Microsoft.Expression.Prototyping.Runtime.dll
+C:\Users\Patrick L\Documents\Expression\Blend 4\Projects\WpfPrototype1\WpfPrototype1\bin\Debug\Microsoft.Expression.Prototyping.SketchControls.dll
+C:\Users\Patrick L\Documents\Expression\Blend 4\Projects\WpfPrototype1\WpfPrototype1\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Patrick L\Documents\Expression\Blend 4\Projects\WpfPrototype1\WpfPrototype1\bin\Debug\WpfPrototype1.Screens.pdb
+C:\Users\Patrick L\Documents\Expression\Blend 4\Projects\WpfPrototype1\WpfPrototype1\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\Patrick L\Documents\Expression\Blend 4\Projects\WpfPrototype1\WpfPrototype1\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\Patrick L\Documents\Expression\Blend 4\Projects\WpfPrototype1\WpfPrototype1\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\Patrick L\Documents\Expression\Blend 4\Projects\WpfPrototype1\WpfPrototype1\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\Patrick L\Documents\Expression\Blend 4\Projects\WpfPrototype1\WpfPrototype1\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\Patrick L\Documents\Expression\Blend 4\Projects\WpfPrototype1\WpfPrototype1\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\Patrick L\Documents\Expression\Blend 4\Projects\WpfPrototype1\WpfPrototype1\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\Patrick L\Documents\Expression\Blend 4\Projects\WpfPrototype1\WpfPrototype1\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\Patrick L\Documents\Expression\Blend 4\Projects\WpfPrototype1\WpfPrototype1\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\Patrick L\Documents\Expression\Blend 4\Projects\WpfPrototype1\WpfPrototype1\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\Patrick L\Documents\Expression\Blend 4\Projects\WpfPrototype1\WpfPrototype1\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\Patrick L\Documents\Expression\Blend 4\Projects\WpfPrototype1\WpfPrototype1\bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Patrick L\Documents\Expression\Blend 4\Projects\WpfPrototype1\WpfPrototype1\bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Patrick L\Documents\Expression\Blend 4\Projects\WpfPrototype1\WpfPrototype1\bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Patrick L\Documents\Expression\Blend 4\Projects\WpfPrototype1\WpfPrototype1\bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Patrick L\Documents\Expression\Blend 4\Projects\WpfPrototype1\WpfPrototype1\bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Patrick L\Documents\Expression\Blend 4\Projects\WpfPrototype1\WpfPrototype1\bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Patrick L\Documents\Expression\Blend 4\Projects\WpfPrototype1\WpfPrototype1\bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Patrick L\Documents\Expression\Blend 4\Projects\WpfPrototype1\WpfPrototype1\bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Patrick L\Documents\Expression\Blend 4\Projects\WpfPrototype1\WpfPrototype1\bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Patrick L\Documents\Expression\Blend 4\Projects\WpfPrototype1\WpfPrototype1\bin\Debug\de\Microsoft.Expression.Prototyping.Interactivity.resources.dll
+C:\Users\Patrick L\Documents\Expression\Blend 4\Projects\WpfPrototype1\WpfPrototype1\bin\Debug\en\Microsoft.Expression.Prototyping.Interactivity.resources.dll
+C:\Users\Patrick L\Documents\Expression\Blend 4\Projects\WpfPrototype1\WpfPrototype1\bin\Debug\es\Microsoft.Expression.Prototyping.Interactivity.resources.dll
+C:\Users\Patrick L\Documents\Expression\Blend 4\Projects\WpfPrototype1\WpfPrototype1\bin\Debug\fr\Microsoft.Expression.Prototyping.Interactivity.resources.dll
+C:\Users\Patrick L\Documents\Expression\Blend 4\Projects\WpfPrototype1\WpfPrototype1\bin\Debug\it\Microsoft.Expression.Prototyping.Interactivity.resources.dll
+C:\Users\Patrick L\Documents\Expression\Blend 4\Projects\WpfPrototype1\WpfPrototype1\bin\Debug\ja\Microsoft.Expression.Prototyping.Interactivity.resources.dll
+C:\Users\Patrick L\Documents\Expression\Blend 4\Projects\WpfPrototype1\WpfPrototype1\bin\Debug\ko\Microsoft.Expression.Prototyping.Interactivity.resources.dll
+C:\Users\Patrick L\Documents\Expression\Blend 4\Projects\WpfPrototype1\WpfPrototype1\bin\Debug\zh-Hans\Microsoft.Expression.Prototyping.Interactivity.resources.dll
+C:\Users\Patrick L\Documents\Expression\Blend 4\Projects\WpfPrototype1\WpfPrototype1\bin\Debug\zh-Hant\Microsoft.Expression.Prototyping.Interactivity.resources.dll
+C:\Users\Patrick L\Documents\Expression\Blend 4\Projects\WpfPrototype1\WpfPrototype1\bin\Debug\de\Microsoft.Expression.Prototyping.Runtime.resources.dll
+C:\Users\Patrick L\Documents\Expression\Blend 4\Projects\WpfPrototype1\WpfPrototype1\bin\Debug\en\Microsoft.Expression.Prototyping.Runtime.resources.dll
+C:\Users\Patrick L\Documents\Expression\Blend 4\Projects\WpfPrototype1\WpfPrototype1\bin\Debug\es\Microsoft.Expression.Prototyping.Runtime.resources.dll
+C:\Users\Patrick L\Documents\Expression\Blend 4\Projects\WpfPrototype1\WpfPrototype1\bin\Debug\fr\Microsoft.Expression.Prototyping.Runtime.resources.dll
+C:\Users\Patrick L\Documents\Expression\Blend 4\Projects\WpfPrototype1\WpfPrototype1\bin\Debug\it\Microsoft.Expression.Prototyping.Runtime.resources.dll
+C:\Users\Patrick L\Documents\Expression\Blend 4\Projects\WpfPrototype1\WpfPrototype1\bin\Debug\ja\Microsoft.Expression.Prototyping.Runtime.resources.dll
+C:\Users\Patrick L\Documents\Expression\Blend 4\Projects\WpfPrototype1\WpfPrototype1\bin\Debug\ko\Microsoft.Expression.Prototyping.Runtime.resources.dll
+C:\Users\Patrick L\Documents\Expression\Blend 4\Projects\WpfPrototype1\WpfPrototype1\bin\Debug\zh-Hans\Microsoft.Expression.Prototyping.Runtime.resources.dll
+C:\Users\Patrick L\Documents\Expression\Blend 4\Projects\WpfPrototype1\WpfPrototype1\bin\Debug\zh-Hant\Microsoft.Expression.Prototyping.Runtime.resources.dll
+C:\Users\Patrick L\Documents\Expression\Blend 4\Projects\WpfPrototype1\WpfPrototype1\obj\Debug\WpfPrototype1.csprojResolveAssemblyReference.cache
+C:\Users\Patrick L\Documents\Expression\Blend 4\Projects\WpfPrototype1\WpfPrototype1\obj\Debug\App.baml
+C:\Users\Patrick L\Documents\Expression\Blend 4\Projects\WpfPrototype1\WpfPrototype1\obj\Debug\App.g.cs
+C:\Users\Patrick L\Documents\Expression\Blend 4\Projects\WpfPrototype1\WpfPrototype1\obj\Debug\WpfPrototype1_MarkupCompile.cache
+C:\Users\Patrick L\Documents\Expression\Blend 4\Projects\WpfPrototype1\WpfPrototype1\obj\Debug\WpfPrototype1.g.resources
+C:\Users\Patrick L\Documents\Expression\Blend 4\Projects\WpfPrototype1\WpfPrototype1\obj\Debug\WpfPrototype1.exe
+C:\Users\Patrick L\Documents\Expression\Blend 4\Projects\WpfPrototype1\WpfPrototype1\obj\Debug\WpfPrototype1.pdb
+C:\Users\Patrick L\Dropbox\Student Diary\Documentation\Screen Designs\Screen Designs\WpfPrototype1\obj\Debug\WpfPrototype1.exe
+C:\Users\Patrick L\Dropbox\Student Diary\Documentation\Screen Designs\Screen Designs\WpfPrototype1\obj\Debug\WpfPrototype1.pdb
+C:\Users\Patrick L\Dropbox\Student Diary\Documentation\Screen Designs\Screen Designs\WpfPrototype1\bin\Debug\WpfPrototype1.exe
+C:\Users\Patrick L\Dropbox\Student Diary\Documentation\Screen Designs\Screen Designs\WpfPrototype1\bin\Debug\WpfPrototype1.pdb
+C:\Users\Patrick L\Dropbox\Student Diary\Documentation\Screen Designs\Screen Designs\WpfPrototype1\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\Patrick L\Dropbox\Student Diary\Documentation\Screen Designs\Screen Designs\WpfPrototype1\bin\Debug\Microsoft.Expression.Prototyping.Interactivity.dll
+C:\Users\Patrick L\Dropbox\Student Diary\Documentation\Screen Designs\Screen Designs\WpfPrototype1\bin\Debug\Microsoft.Expression.Prototyping.Runtime.dll
+C:\Users\Patrick L\Dropbox\Student Diary\Documentation\Screen Designs\Screen Designs\WpfPrototype1\bin\Debug\Microsoft.Expression.Prototyping.SketchControls.dll
+C:\Users\Patrick L\Dropbox\Student Diary\Documentation\Screen Designs\Screen Designs\WpfPrototype1\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Patrick L\Dropbox\Student Diary\Documentation\Screen Designs\Screen Designs\WpfPrototype1\bin\Debug\WpfPrototype1.Screens.pdb
+C:\Users\Patrick L\Dropbox\Student Diary\Documentation\Screen Designs\Screen Designs\WpfPrototype1\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\Patrick L\Dropbox\Student Diary\Documentation\Screen Designs\Screen Designs\WpfPrototype1\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\Patrick L\Dropbox\Student Diary\Documentation\Screen Designs\Screen Designs\WpfPrototype1\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\Patrick L\Dropbox\Student Diary\Documentation\Screen Designs\Screen Designs\WpfPrototype1\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\Patrick L\Dropbox\Student Diary\Documentation\Screen Designs\Screen Designs\WpfPrototype1\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\Patrick L\Dropbox\Student Diary\Documentation\Screen Designs\Screen Designs\WpfPrototype1\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\Patrick L\Dropbox\Student Diary\Documentation\Screen Designs\Screen Designs\WpfPrototype1\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\Patrick L\Dropbox\Student Diary\Documentation\Screen Designs\Screen Designs\WpfPrototype1\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\Patrick L\Dropbox\Student Diary\Documentation\Screen Designs\Screen Designs\WpfPrototype1\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\Patrick L\Dropbox\Student Diary\Documentation\Screen Designs\Screen Designs\WpfPrototype1\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\Patrick L\Dropbox\Student Diary\Documentation\Screen Designs\Screen Designs\WpfPrototype1\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\Patrick L\Dropbox\Student Diary\Documentation\Screen Designs\Screen Designs\WpfPrototype1\bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Patrick L\Dropbox\Student Diary\Documentation\Screen Designs\Screen Designs\WpfPrototype1\bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Patrick L\Dropbox\Student Diary\Documentation\Screen Designs\Screen Designs\WpfPrototype1\bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Patrick L\Dropbox\Student Diary\Documentation\Screen Designs\Screen Designs\WpfPrototype1\bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Patrick L\Dropbox\Student Diary\Documentation\Screen Designs\Screen Designs\WpfPrototype1\bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Patrick L\Dropbox\Student Diary\Documentation\Screen Designs\Screen Designs\WpfPrototype1\bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Patrick L\Dropbox\Student Diary\Documentation\Screen Designs\Screen Designs\WpfPrototype1\bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Patrick L\Dropbox\Student Diary\Documentation\Screen Designs\Screen Designs\WpfPrototype1\bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Patrick L\Dropbox\Student Diary\Documentation\Screen Designs\Screen Designs\WpfPrototype1\bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Patrick L\Dropbox\Student Diary\Documentation\Screen Designs\Screen Designs\WpfPrototype1\bin\Debug\de\Microsoft.Expression.Prototyping.Interactivity.resources.dll
+C:\Users\Patrick L\Dropbox\Student Diary\Documentation\Screen Designs\Screen Designs\WpfPrototype1\bin\Debug\en\Microsoft.Expression.Prototyping.Interactivity.resources.dll
+C:\Users\Patrick L\Dropbox\Student Diary\Documentation\Screen Designs\Screen Designs\WpfPrototype1\bin\Debug\es\Microsoft.Expression.Prototyping.Interactivity.resources.dll
+C:\Users\Patrick L\Dropbox\Student Diary\Documentation\Screen Designs\Screen Designs\WpfPrototype1\bin\Debug\fr\Microsoft.Expression.Prototyping.Interactivity.resources.dll
+C:\Users\Patrick L\Dropbox\Student Diary\Documentation\Screen Designs\Screen Designs\WpfPrototype1\bin\Debug\it\Microsoft.Expression.Prototyping.Interactivity.resources.dll
+C:\Users\Patrick L\Dropbox\Student Diary\Documentation\Screen Designs\Screen Designs\WpfPrototype1\bin\Debug\ja\Microsoft.Expression.Prototyping.Interactivity.resources.dll
+C:\Users\Patrick L\Dropbox\Student Diary\Documentation\Screen Designs\Screen Designs\WpfPrototype1\bin\Debug\ko\Microsoft.Expression.Prototyping.Interactivity.resources.dll
+C:\Users\Patrick L\Dropbox\Student Diary\Documentation\Screen Designs\Screen Designs\WpfPrototype1\bin\Debug\zh-Hans\Microsoft.Expression.Prototyping.Interactivity.resources.dll
+C:\Users\Patrick L\Dropbox\Student Diary\Documentation\Screen Designs\Screen Designs\WpfPrototype1\bin\Debug\zh-Hant\Microsoft.Expression.Prototyping.Interactivity.resources.dll
+C:\Users\Patrick L\Dropbox\Student Diary\Documentation\Screen Designs\Screen Designs\WpfPrototype1\bin\Debug\de\Microsoft.Expression.Prototyping.Runtime.resources.dll
+C:\Users\Patrick L\Dropbox\Student Diary\Documentation\Screen Designs\Screen Designs\WpfPrototype1\bin\Debug\en\Microsoft.Expression.Prototyping.Runtime.resources.dll
+C:\Users\Patrick L\Dropbox\Student Diary\Documentation\Screen Designs\Screen Designs\WpfPrototype1\bin\Debug\es\Microsoft.Expression.Prototyping.Runtime.resources.dll
+C:\Users\Patrick L\Dropbox\Student Diary\Documentation\Screen Designs\Screen Designs\WpfPrototype1\bin\Debug\fr\Microsoft.Expression.Prototyping.Runtime.resources.dll
+C:\Users\Patrick L\Dropbox\Student Diary\Documentation\Screen Designs\Screen Designs\WpfPrototype1\bin\Debug\it\Microsoft.Expression.Prototyping.Runtime.resources.dll
+C:\Users\Patrick L\Dropbox\Student Diary\Documentation\Screen Designs\Screen Designs\WpfPrototype1\bin\Debug\ja\Microsoft.Expression.Prototyping.Runtime.resources.dll
+C:\Users\Patrick L\Dropbox\Student Diary\Documentation\Screen Designs\Screen Designs\WpfPrototype1\bin\Debug\ko\Microsoft.Expression.Prototyping.Runtime.resources.dll
+C:\Users\Patrick L\Dropbox\Student Diary\Documentation\Screen Designs\Screen Designs\WpfPrototype1\bin\Debug\zh-Hans\Microsoft.Expression.Prototyping.Runtime.resources.dll
+C:\Users\Patrick L\Dropbox\Student Diary\Documentation\Screen Designs\Screen Designs\WpfPrototype1\bin\Debug\zh-Hant\Microsoft.Expression.Prototyping.Runtime.resources.dll
+C:\Users\Patrick L\Dropbox\Student Diary\Documentation\Screen Designs\Screen Designs\WpfPrototype1\obj\Debug\WpfPrototype1.csprojResolveAssemblyReference.cache
+C:\Users\Patrick L\Dropbox\Student Diary\Documentation\Screen Designs\Screen Designs\WpfPrototype1\obj\Debug\App.baml
+C:\Users\Patrick L\Dropbox\Student Diary\Documentation\Screen Designs\Screen Designs\WpfPrototype1\obj\Debug\App.g.cs
+C:\Users\Patrick L\Dropbox\Student Diary\Documentation\Screen Designs\Screen Designs\WpfPrototype1\obj\Debug\WpfPrototype1_MarkupCompile.cache
+C:\Users\Patrick L\Dropbox\Student Diary\Documentation\Screen Designs\Screen Designs\WpfPrototype1\obj\Debug\WpfPrototype1.g.resources
